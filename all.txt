@@ -46,6 +46,8 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
+
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -59,6 +61,8 @@ https://004430.xyz:443/announce
 https://1.tracker.eu.org:443/announce
 
 https://1337.abcvg.info:443/announce
+
+https://ht.therarbg.to:443/announce
 
 https://open.ftorrent.com:443/announce
 
@@ -184,6 +188,8 @@ udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
+udp://tracker.flatuslifir.is:6969/announce
+
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.govt.hu:6969/announce
@@ -200,17 +206,19 @@ udp://tracker.opentrackr.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.orsvarn.com:6969/announce
-
 udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
+
+udp://tracker.plx.im:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -235,8 +243,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://v6.vito-tracker.space:6969/announce
-
-udp://whybother.torrentonline.cc:42069/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
